@@ -157,6 +157,8 @@ button {
 
     background: whitesmoke;
     display: block;
+
+    transition: 0.1s;
 }
 
 button:hover {
